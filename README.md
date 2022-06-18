@@ -10,63 +10,63 @@
 <table>
 <thead>
   <tr>
-    <th colspan="7">Data</th>
+    <th colspan="7" align="left">Data</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Collection</td>
-    <td>Processing</td>
-    <td>Analysis</td>
-    <td>Modeling</td>
-    <td>Visualization</td>
-    <td>Deployment</td>
-    <td>Monitoring</td>
+    <td align="center">Collection</td>
+    <td align="center">Processing</td>
+    <td align="center">Analysis</td>
+    <td align="center">Modeling</td>
+    <td align="center">Visualization</td>
+    <td align="center">Deployment</td>
+    <td align="center">Monitoring</td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
-    <td>
+    <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
