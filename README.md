@@ -36,7 +36,7 @@
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
-        <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
+        <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
     </td>
     <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
