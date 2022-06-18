@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋! My name is Gustavo and i'm a Data Scientist, from Brazil :brazil:</h2>
 
 
-* **Creating bugs since 2013** (when I started my Electrical Engineer undergrad) and **working with data since 2018**
+* **Creating bugs since 2013** (when I started my Electrical Engineering undergrad) and **working with data since 2018**
 * Goals: learn more about **MLOps**, get a **masters degree**, **work remotely** and **travel the world**
 * I also enjoy **photography**, **gaming** and **basketball**
 
@@ -62,7 +62,7 @@
     <td align="center">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
-        <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
+        <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-filled.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
         <img src="https://github.com/vmgustavo/vmgustavo/blob/master/fig/star-empty-yellow.png?raw=true" width="10">
     </td>
