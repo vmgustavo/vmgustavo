@@ -9,9 +9,12 @@
 
 <table>
 <thead>
+<thead>
   <tr>
-    <th colspan="7" align="left">Data</th>
+    <th colspan="5">Data</th>
+    <th colspan="2">Model</th>
   </tr>
+</thead>
 </thead>
 <tbody>
   <tr>
