@@ -11,8 +11,8 @@
 <thead>
 <thead>
   <tr>
-    <th colspan="5">Data</th>
-    <th colspan="2">Model</th>
+    <th colspan="5" align="left">Data</th>
+    <th colspan="2" align="left">Model</th>
   </tr>
 </thead>
 </thead>
