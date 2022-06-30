@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Gustavo and i'm a Data Scientist, from Brazil :brazil:</h2>
+<h3 align="left">Hi 👋! My name is Gustavo and I'm a Data Scientist, from Brazil :brazil:</h2>
 
 
 * **Creating bugs since 2013** (when I started my Electrical Engineering undergrad) and **working with data since 2018**
